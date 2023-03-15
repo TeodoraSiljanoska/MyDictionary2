@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mojot Recnik</string>
+    <string name="title_activity_main">Recnik</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="pocetok">Pocetok</string>
+    <string name="hello_first_fragment">OVA E MOJOT ANGLISKO-MAKEDONSKI RECNIK!</string>
+    <string name="menu_text">IZBERETE OPCIJA</string>
+    <string name="nov_zbor">NOV ZBOR</string>
+</resources>
